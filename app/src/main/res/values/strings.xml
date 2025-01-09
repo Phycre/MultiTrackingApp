@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MultiTrackingApp</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_history">History</string>
+    <string name="bottom_navigation_settings">Settings</string>
 </resources>
